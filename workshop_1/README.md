@@ -6,13 +6,13 @@
 Якщо натиснути на аватар користувача у верхньому лівому куті, з’явиться меню, де можна змінити налаштування профілю та завантажити **desktop-версію Figma**.
 
 ### **Так виглядає декстопна версія фігми**
-![app](https://github.com/user-attachments/assets/78754cf2-6305-4184-9a3d-bb906ed05ace)
+![app](imgs/app.jpg)
 
 ### **Так виглядає веб-версія**
-![web](https://github.com/user-attachments/assets/6c2b89a3-6522-4b7e-a9fc-99b830821601)
+![web](imgs/web.jpg)
 
 ### **Так виглядає аккаунт користувача**
-![user](https://github.com/user-attachments/assets/38bce04f-244e-427d-a1e5-b3d972bdf29b)
+![user](imgs/user.jpg)
 
 ### Висновок  
 У процесі роботи я навчилась:  
