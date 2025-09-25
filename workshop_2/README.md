@@ -20,8 +20,10 @@ While working in Figma, I learned to:
 -   use the basic tools of the editor;
 -   work with shapes and colors;
 -   apply graphic skills more confidently in practice.
-
+  
+https://www.figma.com/design/zZi5SVODwjE3tBJoW16SbQ/Untitled?node-id=0-1&t=4Kxmo2aMLF4HWmZR-1
 ![](./imgs/dz2.png)
+
 
 
 
