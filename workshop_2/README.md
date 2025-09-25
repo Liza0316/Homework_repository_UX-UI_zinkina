@@ -1,6 +1,6 @@
 # PT-2 Working with simple shapes and their properties in Figma. Part 1 
 ## Work plan:
-1) *I created a new project in Figma.
+#### 1) *I created a new project in Figma.
  Then I created five 90x90 polygons.
  After that, I started editing each shape. For example, for one shape, I smoothed the corners using these parameters:* <br>
  ![](./imgs/1.jpg)
@@ -24,6 +24,7 @@ While working in Figma, I learned to:
 -   apply graphic skills more confidently in practice.
 
 ![](./imgs/dz2.png)
+
 
 
 
