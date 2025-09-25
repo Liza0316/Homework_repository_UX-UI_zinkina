@@ -13,7 +13,7 @@
 #### 6)  *Next, I moved on to coloring. For this, I copied the logo that was given in the assignment and, using an eyedropper, chose the right colors:*<br>
 ![](./imgs/6.jpg)
 #### 7)  *I also created a frame measuring 200 by 300, set the transparency to zero and moved the previously grouped shape there using the ctrl+g combination.* <br>
-    ![](./imgs/7.jpg)
+   ![](./imgs/7.jpg)
  ## Conclusion
 While working in Figma, I learned to:
 -   create a logo based on a sample;
@@ -22,6 +22,7 @@ While working in Figma, I learned to:
 -   apply graphic skills more confidently in practice.
 
 ![](./imgs/dz2.png)
+
 
 
 
