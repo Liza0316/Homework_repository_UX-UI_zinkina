@@ -4,7 +4,7 @@
  ![](./imgs/1.jpg)
  #### 2) *After that, I started editing each shape. For example, for one shape, I smoothed the corners using these parameters:*<br>
  ![](./imgs/2.jpg)
-#### 3) *For the second figure: *<br>
+#### 3) *For the second figure:*<br>
 ![](./imgs/3.jpg)
  #### 4) *For the third figure I repeated the same as on the first one. For the fourth figure I used these properties to make a circle:*<br>
  ![](./imgs/4.jpg)
@@ -22,6 +22,7 @@ While working in Figma, I learned to:
 -   apply graphic skills more confidently in practice.
 
 ![](./imgs/dz2.png)
+
 
 
 
