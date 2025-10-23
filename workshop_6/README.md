@@ -58,7 +58,7 @@ A complex solid gear icon was created with a transparent hole in the center.
 
 ![](./img/5.jpg)
 
-### 💡 Conclusion
+### Conclusion
 During this work, the key vector design technique — **Boolean operations** — was mastered.  
 This approach allows for creating visually complex, clean, and technically precise icons using only basic geometric primitives (circles and rectangles).  
 
@@ -68,3 +68,4 @@ This makes the design process **flexible, fast, and efficient**.
 
 
 https://www.figma.com/design/QfzS6r778uarTYXyJy8abx/Untitled?node-id=0-1&t=5f4hfYvBZYbnsf3L-1
+
