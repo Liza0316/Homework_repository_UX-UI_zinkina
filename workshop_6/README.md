@@ -1,6 +1,6 @@
-## 🧩 Creating a Set of Icons Using Boolean Operations
+## Creating a Set of Icons Using Boolean Operations
 
-### 🔹 Work Process
+### Work Process
 
 #### 1. Creating the "User" Icon (Frame 1)
 **Operation:** Union  
@@ -11,9 +11,8 @@ Both shapes were selected and combined using the **Union** Boolean operation.
 
 **Result:**  
 The two separate shapes merged into a single, solid silhouette representing a user.
-
----
 ![](./img/1.jpg)
+---
 
 #### 2. Creating the "Moon" Icon (Frame 2)
 **Operation:** Subtract  
@@ -24,9 +23,9 @@ Both shapes were selected, and the **Subtract** Boolean operation was applied.
 
 **Result:**  
 The top ellipse cut its shape out of the bottom one, creating a clean crescent moon icon.
-
----
 ![](./img/2.jpg)
+---
+
 #### 3. Creating the "Cloud" Icon (Frame 3, top)
 **Operation:** Union  
 
@@ -36,9 +35,8 @@ All figures were selected and combined using the **Union** operation.
 
 **Result:**  
 A group of separate “bubbles” merged into a single, recognizable cloud shape.
-
----
 ![](./img/3.jpg)
+---
 
 #### 4. Creating the "Gear / Settings" Icon (Frame 3, bottom)
 **Operations:** Union and Subtract  
@@ -55,9 +53,9 @@ The smaller ellipse was placed in the center of the gear and used with the **Sub
 
 **Result:**  
 A complex solid gear icon was created with a transparent hole in the center.
-
----
 ![](./img/4.jpg)
+---
+
 ![](./img/5.jpg)
 
 ### 💡 Conclusion
@@ -66,6 +64,7 @@ This approach allows for creating visually complex, clean, and technically preci
 
 The main advantage of this method lies in **non-destructive editing**: a Boolean group (like “Union” or “Subtract”) remains a container that allows modifying the size, color, or position of the original shapes at any time.  
 This makes the design process **flexible, fast, and efficient**.
+
 
 
 https://www.figma.com/design/QfzS6r778uarTYXyJy8abx/Untitled?node-id=0-1&t=5f4hfYvBZYbnsf3L-1
