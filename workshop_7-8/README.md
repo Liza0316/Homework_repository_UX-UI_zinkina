@@ -31,14 +31,8 @@ The main focus was to maintain **balance, alignment, font pairing**, and **visua
 
 ---
 
-### **Figma project link**
-[https://www.figma.com/design/qd7KvEsja7bPFiItY3cazZ/Practice-UX-UI?node-id=0-1&t=kGTf3erfKpAyZ6lV-1](https://www.figma.com/design/qd7KvEsja7bPFiItY3cazZ/Practice-UX-UI?node-id=0-1&t=kGTf3erfKpAyZ6lV-1)
-
----
-
 ### **File path in repository**
 https://www.figma.com/design/87htqiFOtmwKiayg2Os0Ia/Untitled?node-id=0-1&t=iQGiwFKyj3veMrpF-1
-
 
 ---
 
@@ -47,3 +41,4 @@ https://www.figma.com/design/87htqiFOtmwKiayg2Os0Ia/Untitled?node-id=0-1&t=iQGiw
 Through these exercises, I learned how **typography defines the tone and clarity of digital interfaces**.  
 Working in Figma helped me practice **text alignment, hierarchy, kerning, and contrast**, ensuring both readability and aesthetic harmony.  
 This task demonstrated that typography is not just decorative — it’s a crucial element of **user experience** and **visual communication**.
+
