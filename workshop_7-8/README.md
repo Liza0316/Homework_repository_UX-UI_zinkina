@@ -27,7 +27,8 @@ During the process, I focused on achieving **clean typography**, consistent line
 ---
 
 ### **Figma project link**
-https://www.figma.com/design/87htqiFOtmwKiayg2Os0Ia/Untitled?node-id=0-1&m=dev&t=iQGiwFKyj3veMrpF-1
+
+https://www.figma.com/design/87htqiFOtmwKiayg2Os0Ia/Untitled?node-id=0-1&t=iQGiwFKyj3veMrpF-1
 
 ---
 
@@ -36,6 +37,7 @@ https://www.figma.com/design/87htqiFOtmwKiayg2Os0Ia/Untitled?node-id=0-1&m=dev&t
 This exercise helped me strengthen my understanding of **typography as a design tool**, not just as text styling.  
 By recreating the interface in Figma, I practiced **aligning elements, setting proper spacing, combining fonts, and managing text hierarchy**.  
 The final result demonstrates how thoughtful typography enhances **clarity, structure, and user experience** in any digital product.
+
 
 
 
