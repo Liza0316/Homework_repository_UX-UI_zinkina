@@ -61,7 +61,7 @@ Practical work on creating a product card UI component (e-commerce) in Figma. Th
 ## Result
 A concise and functional product card, ready for use in an online store catalog.
 
-![](./img/1.jpg)
+![](./1.jpg)
 
 ## Conclusion
 
@@ -73,5 +73,6 @@ Key Results:
 3. A flexible component was created that maintains its structure when resized or reloaded.
 
 This project demonstrates an understanding of modular design principles and the component's readiness for use in real projects.
+
 
 https://www.figma.com/design/ytr7Jl9rJMDTmrSLsKoML1/Untitled?node-id=3-34&t=kyThNWRPrKGmYdxM-1 
