@@ -1,35 +1,5 @@
 # UI Design: Product Card Component
 
-Practical work on creating a product card UI component (e-commerce) in Figma. The main focus was on using Auto Layout and typography.
-
-## Tools
-- Figma (Design, Auto Layout, Components)
-
-## Implementation Process (Workflow)
-
-### 1. Preparing Visual Content
-- Created a main frame for the product image.
-- Placed the bag image with appropriate padding to create "air" around the object.
-
-### 2. Price & Rating Block
-- Created a horizontal container (Horizontal Auto Layout).
-- Key Feature: **Space Between** (Gap: Auto) distribution mode was used to align the price to the left edge and the rating stars to the right, regardless of the card width.
-
-### 3. Typography and Hierarchy
-- **Heading:** A display serif font (El Messiri) was used for the model name ("Bianco Crossbody") to create a premium look.
-- **Description:** A grotesque font (El Messiri) in gray was used to reduce visual noise. The text describes key benefits (design, material, fittings).
-
-### 4. Interactive Element (CTA Button)
-- The "Buy Now" button was created using Auto Layout.
-- A fixed height and rounded corners (Corner Radius) were set to match the overall style.
-- A contrasting black background emphasizes the target action.
-
-### 5. Final Assembly
-- All elements (Photo, Price/Rating, Text, Button) are combined into a single vertical **Auto Layout**. - Adjusted padding within the product card to ensure neat content alignment.
-
-## Result
-A concise and functional product card, ready for use in an online store catalog.# UI Design: Product Card Component
-
 Practical work on creating a product card UI component (e-commerce) in Figma. The main focus was on using Auto Layout and typography correctly.
 
 ## Tools
@@ -76,3 +46,4 @@ This project demonstrates an understanding of modular design principles and the 
 
 
 https://www.figma.com/design/ytr7Jl9rJMDTmrSLsKoML1/Untitled?node-id=3-34&t=kyThNWRPrKGmYdxM-1 
+
