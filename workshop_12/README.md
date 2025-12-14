@@ -7,6 +7,7 @@ The goal of this practical task was to design a comprehensive user experience fo
 1. Create a detailed wireframe for an online store (Main page + 2-3 product pages) for Desktop.
 2. Use prototyping tools to create a clickable prototype based on the design.
 
+![](./img/image_ae1)
 
 ## **Tools**
 - **Figma** (Design, Wireframing, Prototyping)
@@ -44,6 +45,9 @@ I designed specific pages for different product color options to simulate a real
 
 *Variant 2: Dark Green Jacket (The Ranger Parka)*
 ![](./img/Screen%204%20(Mockup%20cart%202).jpg)
+
+
+
 ![](./img/Screen%205%20(Mockup%20cart%202).jpg)
 
 ---
