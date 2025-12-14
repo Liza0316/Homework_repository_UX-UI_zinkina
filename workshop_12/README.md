@@ -7,7 +7,6 @@ The goal of this practical task was to design a comprehensive user experience fo
 1. Create a detailed wireframe for an online store (Main page + 2-3 product pages) for Desktop.
 2. Use prototyping tools to create a clickable prototype based on the design.
 
-![](./img/image_ae1999.png)
 
 ## **Tools**
 - **Figma** (Design, Wireframing, Prototyping)
@@ -21,11 +20,11 @@ I started by building the skeleton of the website using wireframes. The focus he
 
 **Main Catalog Page (Wireframe):**
 I defined the header, a layout for the hero section, a sidebar for filters (categories, price), and a grid system for product cards.
-![](./img/Screen 1 (Wireframe).jpg)
+![](./img/Screen%201%20(Wireframe).jpg)
 
 **Product Detail Page (Wireframe):**
 I structured the single product page with a large image area, a dedicated section for product details (price, description, size selector), and a "Buy" call-to-action block.
-![](./img/Screen 2 (Wireframe).jpg)
+![](./img/Screen%202%20(Wireframe).jpg)
 
 ---
 
@@ -34,18 +33,18 @@ After approving the structure, I applied the visual style. I chose a "Clothing &
 
 **Main Page Design:**
 Filled with real content, high-quality imagery, and styled typography to create an engaging shopping experience.
-![](./img/Screen 1 (Mockup).jpg)
+![](./img/Screen%201%20(Mockup).jpg)
 
 **Product Page Variations:**
 I designed specific pages for different product color options to simulate a real e-commerce experience.
 
 *Variant 1: Orange/Brown Jacket (The Ranger Parka)*
-![](./img/Screen 2 (Mockup cart 1).jpg)
-![](./img/Screen 3 (Mockup cart 1).jpg)
+![](./img/Screen%202%20(Mockup%20cart%201).jpg)
+![](./img/Screen%203%20(Mockup%20cart%201).jpg)
 
 *Variant 2: Dark Green Jacket (The Ranger Parka)*
-![](./img/Screen 4 (Mockup cart 2).jpg)
-![](./img/Screen 5 (Mockup cart 2).jpg)
+![](./img/Screen%204%20(Mockup%20cart%202).jpg)
+![](./img/Screen%205%20(Mockup%20cart%202).jpg)
 
 ---
 
