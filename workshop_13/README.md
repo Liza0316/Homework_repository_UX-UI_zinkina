@@ -87,7 +87,7 @@ Color harmony is the theory of combining colors in a fashion that is harmonious 
 ![Custom](./img/8.jpg)
 
 ### 3. Extract Theme
-**Image used:** ![Original Image](./img/simon-sprimg.jpg)
+**Image used:** ![Original Image](./img/simon-spring.jpg)
 
 - **Colorful Palette:**
   - HEXs: `#222940`, `#4D628C`, `#D9BEA7`, `#F27F3D`, `#A65644`
@@ -123,3 +123,4 @@ I gained practical skills in automatically extracting palettes from images (Extr
 
 
 Additionally, attention was paid to checking color contrast according to WCAG accessibility standards, which is crucial for creating high-quality and user-friendly interfaces.
+
