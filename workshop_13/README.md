@@ -87,15 +87,15 @@ Color harmony is the theory of combining colors in a fashion that is harmonious 
 ![Custom](./img/8.jpg)
 
 ### 3. Extract Theme
-**Image used:** ![Original Image](./img/9.jpg)
+**Image used:** ![Original Image](./img/simon-sprimg.jpg)
 
 - **Colorful Palette:**
   - HEXs: `#222940`, `#4D628C`, `#D9BEA7`, `#F27F3D`, `#A65644`
-  ![Colorful](./img/10.jpg)
+  ![Colorful](./img/9.jpg)
 
 - **Muted Palette:**
   - HEXs: `#7C87A6`, `#405173`, `#242D40`, `#D9BEA7`, `#A65746`
-  ![Muted](./img/11.jpg)
+  ![Muted](./img/10.jpg)
 
 **Which palette fits UI better:** [Write "Muted" or "Colorful" here]
 **Explanation:** [Briefly explain why, e.g., "The Muted palette is better for UI because the colors are calm and do not strain the user's eyes..."]
@@ -104,7 +104,7 @@ Color harmony is the theory of combining colors in a fashion that is harmonious 
 - **Gradient stops:** `#3D435D`, `#A68C73`, `#C27153`
 - **Application:** This gradient can be used for the website's hero section or buttons.
 
-![Gradient](./img/12.jpg)
+![Gradient](./img/11.jpg)
 
 ### 5. Accessibility (Contrast)
 - **Color Pair:** Background `#DEFFF4`, Text `#3D435D`
@@ -112,7 +112,7 @@ Color harmony is the theory of combining colors in a fashion that is harmonious 
 - **AA (Normal):** Pass/Fail
 - **AAA (Large):** Pass/Fail
 
-![Contrast](./img/13.jpg)
+![Contrast](./img/12.jpg)
 
 ---
 
@@ -120,5 +120,6 @@ Color harmony is the theory of combining colors in a fashion that is harmonious 
 During this practical task, I familiarized myself with the concept of color harmony. I learned how to work with the color wheel in Adobe Color and create palettes based on different principles: Analogous, Monochromatic, Triad, Complementary, Split Complementary, Square, and Custom.
 
 I gained practical skills in automatically extracting palettes from images (Extract Theme), comparing Colorful and Muted options. I also learned to create gradients using the Extract Gradient tool.
+
 
 Additionally, attention was paid to checking color contrast according to WCAG accessibility standards, which is crucial for creating high-quality and user-friendly interfaces.
