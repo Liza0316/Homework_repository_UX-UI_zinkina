@@ -167,7 +167,7 @@ Thanks to `srcset`, lightweight photos load on weaker devices, while high-qualit
 ![Original Screenshot](./img/Screenshot.png)
 
 #### Optimized (Moz JPEG 50%)
-![Optimized Screenshot](./img/50%_quality/Screenshot_MozJPEG_50)
+![Optimized Screenshot](./img/50%_quality/Screenshot_MozJPEG_50.jpg)
 
 ---
 
@@ -188,4 +188,5 @@ Comparison of Optimization Results The optimization using MozJPEG at 50% quality
 
 
 During this practical task, I learned how to work with Squoosh, perform both lossy and lossless image compression, and resize images for various devices. I observed how significantly WebP and AVIF formats reduce file size without substantial loss of quality. For the web, WebP and AVIF are the best choices; for screenshots, PNG and WebP (lossless) are preferred; and for Retina displays, it is crucial to create scaled-up 2x or 3x versions.
+
 
